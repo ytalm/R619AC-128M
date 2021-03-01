@@ -26,7 +26,7 @@ on:
     paths:
       - 'mod.config'
   schedule:
-   - cron: 0 22 * * *
+   - cron: 0 4 28 * *
   watch:
     types: started
 
